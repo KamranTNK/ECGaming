@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina4_7" orientation="landscape" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="667" height="375"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Default-Landscape-1134.png" translatesAutoresizingMaskIntoConstraints="NO" id="uhl-X7-l7k">
+                                <rect key="frame" x="0.0" y="0.0" width="667" height="375"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="uhl-X7-l7k" firstAttribute="trailing" secondItem="Ze5-6b-2t3" secondAttribute="trailing" id="9Kn-kp-yQP"/>
+                            <constraint firstItem="uhl-X7-l7k" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="Cfr-Hl-ouw"/>
+                            <constraint firstItem="uhl-X7-l7k" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="Eav-lc-Lse"/>
+                            <constraint firstItem="uhl-X7-l7k" firstAttribute="trailing" secondItem="Ze5-6b-2t3" secondAttribute="trailing" id="fKe-T8-IjP"/>
+                            <constraint firstItem="uhl-X7-l7k" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="hbb-78-dZv"/>
+                            <constraint firstItem="uhl-X7-l7k" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="icm-0t-Dqx"/>
+                            <constraint firstItem="uhl-X7-l7k" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="kuf-JG-Aj2"/>
+                            <constraint firstItem="uhl-X7-l7k" firstAttribute="bottom" secondItem="Ze5-6b-2t3" secondAttribute="bottom" id="ngq-ai-iPH"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-67" y="154"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Default-Landscape-1134.png" width="667" height="375"/>
+    </resources>
+</document>

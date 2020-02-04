@@ -1,0 +1,90 @@
+
+/* Class = "UILabel"; text = "gaming"; ObjectID = "1yi-bP-Yrz"; */
+"1yi-bP-Yrz.text" = "gaming";
+
+/* Class = "UIButton"; normalTitle = "Both D"; ObjectID = "3FJ-ey-dj7"; */
+"3FJ-ey-dj7.normalTitle" = "Both D";
+
+/* Class = "UIButton"; normalTitle = "Clear"; ObjectID = "3J0-uN-cw8"; */
+"3J0-uN-cw8.normalTitle" = "Clear";
+
+/* Class = "UIButton"; normalTitle = "MID"; ObjectID = "4FB-Zo-pUz"; */
+"4FB-Zo-pUz.normalTitle" = "MID";
+
+/* Class = "UIButton"; normalTitle = "LOW"; ObjectID = "4mn-ff-z6P"; */
+"4mn-ff-z6P.normalTitle" = "LOW";
+
+/* Class = "UIButton"; normalTitle = "HIGH"; ObjectID = "AD7-6R-6iG"; */
+"AD7-6R-6iG.normalTitle" = "HIGH";
+
+/* Class = "UIButton"; normalTitle = "Last D"; ObjectID = "Czc-dc-kcL"; */
+"Czc-dc-kcL.normalTitle" = "Last D";
+
+/* Class = "UIButton"; normalTitle = "BIG"; ObjectID = "FWC-B4-S8l"; */
+"FWC-B4-S8l.normalTitle" = "BIG";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "KID-ou-V5g"; */
+"KID-ou-V5g.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "0-9"; ObjectID = "KPQ-iU-eW7"; */
+"KPQ-iU-eW7.normalTitle" = "0-9";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "MeJ-38-oNA"; */
+"MeJ-38-oNA.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "First D"; ObjectID = "NM3-ud-VGQ"; */
+"NM3-ud-VGQ.normalTitle" = "First D";
+
+/* Class = "UILabel"; text = "FD"; ObjectID = "UCC-Pw-jAi"; */
+"UCC-Pw-jAi.text" = "FD";
+
+/* Class = "UIButton"; normalTitle = "Two D"; ObjectID = "UQg-dZ-Kwe"; */
+"UQg-dZ-Kwe.normalTitle" = "Two D";
+
+/* Class = "UILabel"; text = "Select Time"; ObjectID = "VoW-po-2t3"; */
+"VoW-po-2t3.text" = "Select Time";
+
+/* Class = "UIButton"; normalTitle = "0-18"; ObjectID = "W78-GY-o56"; */
+"W78-GY-o56.normalTitle" = "0-18";
+
+/* Class = "UILabel"; text = "Select Stock"; ObjectID = "WTN-8P-d3t"; */
+"WTN-8P-d3t.text" = "Select Stock";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "WTY-RZ-2Ke"; */
+"WTY-RZ-2Ke.text" = "0";
+
+/* Class = "UILabel"; text = "EC"; ObjectID = "Xya-32-2Y5"; */
+"Xya-32-2Y5.text" = "EC";
+
+/* Class = "UIButton"; normalTitle = "ODD"; ObjectID = "Y7O-DC-Rn1"; */
+"Y7O-DC-Rn1.normalTitle" = "ODD";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "bWt-pV-ciM"; */
+"bWt-pV-ciM.text" = "100";
+
+/* Class = "UIButton"; normalTitle = "Numbers"; ObjectID = "dM0-nJ-lg4"; */
+"dM0-nJ-lg4.normalTitle" = "Numbers";
+
+/* Class = "UILabel"; text = "Select BTU"; ObjectID = "iTf-fB-alF"; */
+"iTf-fB-alF.text" = "Select BTU";
+
+/* Class = "UIButton"; normalTitle = "EVE"; ObjectID = "iYD-yx-Kap"; */
+"iYD-yx-Kap.normalTitle" = "EVE";
+
+/* Class = "UILabel"; text = "LD"; ObjectID = "o7d-hi-Z7M"; */
+"o7d-hi-Z7M.text" = "LD";
+
+/* Class = "UIButton"; normalTitle = "Comfirm"; ObjectID = "oI6-vx-GL1"; */
+"oI6-vx-GL1.normalTitle" = "Comfirm";
+
+/* Class = "UIButton"; normalTitle = "SML"; ObjectID = "q2c-S6-EXH"; */
+"q2c-S6-EXH.normalTitle" = "SML";
+
+/* Class = "UIButton"; normalTitle = "0-99"; ObjectID = "wNX-Hd-t2Q"; */
+"wNX-Hd-t2Q.normalTitle" = "0-99";
+
+/* Class = "UIButton"; normalTitle = "0-9"; ObjectID = "xRv-v9-Or4"; */
+"xRv-v9-Or4.normalTitle" = "0-9";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "yiX-Vb-dpl"; */
+"yiX-Vb-dpl.text" = "00:00";

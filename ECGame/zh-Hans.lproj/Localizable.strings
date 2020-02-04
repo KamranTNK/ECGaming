@@ -1,0 +1,176 @@
+/*
+  Localizable.strings
+  ECGame
+
+  Created by hfcb on 22/01/20.
+  Copyright © 2020 tnk. All rights reserved.
+*/
+//MARK: - GameView Controller -
+"US Stock" = "美国股票";
+"China Stock" = "中国股票";
+"Crypto Currency" = "加密货币";
+"SH000001" = "SH000001";
+"SZ399001" = "SZ399001";
+"SZ399415" = "SZ399415";
+"SH000300" = "SH000300";
+"US Dollar Index" = "美元指数";
+"BTC/USDT" = "比特币";
+"1 Minute Loop" = "1分钟游戏";
+"5 Minute Loop" = "5分钟游戏";
+"Select BTU" = "选择子库存";
+"Select Time" = "选择时间";
+"gaming" = "游戏";
+"Clear" = "清除";
+"Confirm" = "确认";
+"LAST DRAW:" = "开奖：";
+"TOTAL WINNINGS:" = "总奖金：";
+"NO OF USERS:" = "用户人数：";
+"RESULTS:" = "结果：";
+//MARK: - Picker Title -
+"From Date" = "从";
+"To Date" = "致";
+// MARK: - Navigation Bar Title -
+"EC Game" = "玩股乐";
+"Registration" = "注册";
+"About Us" = "关于我们";
+"Help" = "帮助";
+"Terms and Condition" = "游戏条款";
+"Privacy Policy" = "隐私条款";
+"Notifications" = "通知选项";
+//MARK: - Bet Button -
+"0-9\nFirst Digit" = "0-9\n十位数";
+"0-9\nLast Digit" = "0-9\n个位数";
+"0-99\nTwo Digit" = "0-99\n两数相加";
+"0-18\nBoth Digit" = "0-18\n两位数";
+"First\nDigit" = "第\n数字";
+"Last\nDigit" = "最后\n位";
+"Two\nDigit" = "两个\n数字";
+"Both\nDigit" = "双位\n数";
+"First Digit" = "十位数";
+"Last Digit" = "个位数";
+"Two Digit" = "两数相加";
+"Both Digit" = "两位数";
+"Numbers" = "号码";
+"BIG" = "大";
+"SML" = "小";
+"ODD" = "单";
+"EVEN" = "双";
+"LOW" = "小";
+"MID" = "中";
+"HIGH" = "大";
+"Clear" = "清除";
+"Confirm" = "确认";
+//MARK: - Alert Message -
+"OOPS!!!" = "糟糕！";
+"Ok" = "好";
+"Alert!" = "预警！";
+"Cancel" = "取消";
+"Warning!" = "警告！";
+"Loading" = "载入中";
+"Saved!" = "保存了！";
+"Error" = "错误";
+"NO" = "没有";
+"YES" = "是";
+"Please enter your name" = "请输入你的名字";
+"Please enter valid name" = "请输入有效名称";
+"Please select gender" = "请选择性别";
+"Please select country name" = "请选择国家名称";
+"Please enter email address" = "请输入电子邮件地址";
+"Please select user rolling" = "请选择用户滚动";
+"Please enter valid email address" = "请输入有效的电子邮件地址";
+"Seems like your internet services are disabled, please go to Settings and turn on Internet Services." = "似乎您的互联网服务已被禁用，请转到“设置”并打开“互联网服务”";
+"Bet Closed" = "投注关闭";
+"Bet Successful" = "投注成功";
+"Please select stock" = "请选择游戏种类";
+"Please select digit type" = "请选择数字玩法类型";
+"Please select chips" = "请选择筹码";
+"Please select time loop related to stock" = "请选择股票玩法时间";
+"Please select \'From Date\'" = "请选择“从日期开始”";
+"Please select \'To Date\'" = "请选择\“至日期\”";
+//MARK: - Profile -
+"Male" = "男";
+"Female" = "女";
+"Day" = "天";
+"Weeks" = "周数";
+"Months" = "月数";
+"Years" = "年份";
+"No Record Found" = "没有找到记录";
+"Name" = "名称: ";
+"Gender" = "性别：";
+"Email" = "电子邮件：";
+"Country" = "国家：";
+"Rolling" = "流水：";
+"Profile" = "账户：";
+"Save" = "保存";
+//MARK: - Current Bet -
+"Current Bet" = "当前投注";
+"Bet Id" = "投注编号";
+"Bet Detail" = "投注详情";
+"Amount" = "数量";
+"Payout" = "派彩";
+"Bet Status" = "投注状态";
+"Total" = "总";
+"Pending" = "待定";
+//MARK: - Bet History  -
+"Bet History" = "投注历史";
+"Go" = "下一步";
+"Time" = "时间";
+"Player Id" = "玩家编号";
+"Online Time" = "上线时间";
+"Total Online" = "在线总数";
+//MARK: - Stock list and Announcement -
+"Stock List" = "股票清单";
+"Stock Name" = "股票名称";
+"Live Price" = "即时价格";
+"Reference" = "参考地址";
+"Title" = "标题";
+"Preview" = "预览";
+"Date" = "日期";
+"Announcement" = "公告";
+"Rules" = "规则";
+//MARK: - Menu Screen -
+"PROFILE" = "账户";
+"CURRENT BET" = "当前投注";
+"BET HISTORY" = "投注历史";
+"STOCK LIST" = "股票清单";
+"STOCK ANALYSIS" = "股票分析";
+"ANNOUNCEMENTS" = "公告";
+"ONLINE HISTORY" = "投注历史";
+"RULES" = "规则";
+"SETTINGS" = "设置";
+//MARK: - Settings Screen -
+"Settings" = "设置";
+"Account" = "帐户";
+"Game Options" = "游戏选项";
+"Tutorial" = "教程";
+"Privacy Policy" = "隐私政策";
+"Terms & Condition" = "条款和协议";
+"Language" = "语言";
+"Chips" = "筹码";
+"Show Prime Membership" = "显示会员";
+"Sound" = "声音";
+"Allow to Follow me" = "允许跟随我下注";
+"Show my Online status to my Followers" = "向关注者显示我的在线状态";
+"Notifications when Friends come Online" = "好友在线时的通知";
+"Logout" = "登出";
+"Everyone" = "大家";
+"No One" = "没有人";
+"Change" = "更改";
+"View" = "视图";
+//MARK: - Stock Analysis -
+"GO" = "下一步";
+"Win" = "赢";
+"Lose" = "输";
+"Sort By" = "排序方式";
+"Select Date" = "选择日期";
+"Calculating..." = "正在计算...";
+"Total Bet(s) - " = "总赌注-";
+"Win - " = "赢-";
+"Lose - " = "输-";
+"Payout: 1.95" = "赔付：1.95";
+"Payout: 9.82" = "赔付：9.82";
+"Payout: 98.82" = "赔付：98.82";
+"Payout: 19.92" = "赔付：19.92";
+"Close" = "关";
+"Select the road map for directly onboarding" = "选择要直接入职的路线图";
+"Stock Name - " = "股票名称 - ";

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="SideMenu" customModule="ECGame" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="592" height="641"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="menu_bg_big" translatesAutoresizingMaskIntoConstraints="NO" id="4WD-Jw-nYP">
+                    <rect key="frame" x="342" y="0.0" width="250" height="641"/>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="le1-9Q-h09">
+                    <rect key="frame" x="542" y="10" width="40" height="40"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="40" id="6O9-jY-Wj4"/>
+                        <constraint firstAttribute="height" constant="40" id="q9L-b8-WNE"/>
+                    </constraints>
+                    <state key="normal" image="menu close">
+                        <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </state>
+                    <connections>
+                        <action selector="closeMenuAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="wp1-Ky-OZh"/>
+                    </connections>
+                </button>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="1" sectionFooterHeight="28" contentViewInsetsToSafeArea="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0YJ-hN-xn9">
+                    <rect key="frame" x="342" y="55" width="250" height="552"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <color key="tintColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="250" id="f1P-EJ-DHv"/>
+                    </constraints>
+                    <color key="sectionIndexColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <color key="sectionIndexBackgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <color key="sectionIndexTrackingBackgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="SbA-XX-DhC"/>
+                        <outlet property="delegate" destination="-1" id="F9L-KO-rK6"/>
+                    </connections>
+                </tableView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="s9h-iO-el2">
+                    <rect key="frame" x="0.0" y="0.0" width="341" height="641"/>
+                    <state key="normal">
+                        <color key="titleColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </state>
+                    <connections>
+                        <action selector="closeMenuAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="ikA-Fx-uit"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.62846290260736193" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="le1-9Q-h09" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="10" id="3un-ea-Kc1"/>
+                <constraint firstItem="0YJ-hN-xn9" firstAttribute="bottom" secondItem="vUN-kp-3ea" secondAttribute="bottom" id="4Ac-70-VpP"/>
+                <constraint firstItem="4WD-Jw-nYP" firstAttribute="width" secondItem="0YJ-hN-xn9" secondAttribute="width" id="7vt-Wp-OjF"/>
+                <constraint firstItem="0YJ-hN-xn9" firstAttribute="top" secondItem="le1-9Q-h09" secondAttribute="bottom" constant="5" id="DSE-dh-MTL"/>
+                <constraint firstItem="4WD-Jw-nYP" firstAttribute="trailing" secondItem="iN0-l3-epB" secondAttribute="trailing" id="HDs-RY-83s"/>
+                <constraint firstAttribute="bottom" secondItem="s9h-iO-el2" secondAttribute="bottom" id="PT8-Nm-gTI"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="le1-9Q-h09" secondAttribute="trailing" constant="10" id="XER-b4-ruR"/>
+                <constraint firstItem="s9h-iO-el2" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="XWn-U4-955"/>
+                <constraint firstItem="4WD-Jw-nYP" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="ddP-oB-4gI"/>
+                <constraint firstAttribute="bottom" secondItem="4WD-Jw-nYP" secondAttribute="bottom" id="df3-Ld-0Ak"/>
+                <constraint firstItem="0YJ-hN-xn9" firstAttribute="trailing" secondItem="iN0-l3-epB" secondAttribute="trailing" id="e5I-qD-riU"/>
+                <constraint firstItem="s9h-iO-el2" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="pK7-SQ-qSR"/>
+                <constraint firstItem="0YJ-hN-xn9" firstAttribute="leading" secondItem="s9h-iO-el2" secondAttribute="trailing" constant="1" id="wLU-Im-j8y"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="closeBtn" destination="le1-9Q-h09" id="kr7-hC-OTj"/>
+                <outlet property="menuTableView" destination="0YJ-hN-xn9" id="gHr-mT-7lt"/>
+            </connections>
+            <point key="canvasLocation" x="-147.82608695652175" y="224.66517857142856"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="menu close" width="124" height="124"/>
+        <image name="menu_bg_big" width="87" height="310.5"/>
+    </resources>
+</document>

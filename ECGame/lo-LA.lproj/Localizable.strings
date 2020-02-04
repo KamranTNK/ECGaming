@@ -1,0 +1,176 @@
+/*
+  Localizable.strings
+  ECGame
+
+  Created by hfcb on 22/01/20.
+  Copyright © 2020 tnk. All rights reserved.
+*/
+//MARK: - GameView Controller -
+"US Stock" = "ຫຸ້ນສະຫະລັດ";
+"China Stock" = "ຫຸ້ນຈີນ";
+"Crypto Currency" = "ເງິນດີຈິຕ້ອນ";
+"SH000001" = "SH000001";
+"SZ399001" = "SZ399001";
+"SZ399415" = "SZ399415";
+"SH000300" = "SH000300";
+"US Dollar Index" = "ເງິນໂດລາສະຫະລັດ";
+"BTC/USDT" = "ບິດຄອຍ";
+"1 Minute Loop" = "ຫນຶ່ງ​ນາ​ທີ";
+"5 Minute Loop" = "ຫ້ານາທີ";
+"Select BTU" = "ເລືອກສຕ໊ອກ";
+"Select Time" = "ເລືອກເວລາ";
+"gaming" = "ເກມ";
+"Clear" = "ເຄຣຍ";
+"Confirm" = "ຢືນຢັນ";
+"LAST DRAW:" = "ຜົນອອກຫລ້າສຸດ:";
+"TOTAL WINNINGS:" = "ຊະນະທັງໝົດ:";
+"NO OF USERS:" = "ຈຳນວນຜູ້ໃຊ້:";
+"RESULTS:" = "ຜົນໄດ້ຮັບ:";
+//MARK: - Picker Title -
+"From Date" = "ຈາກວັນທີ";
+"To Date" = "ເຖິງວັນທີ";
+// MARK: - Navigation Bar  Title -
+"EC Game" = "ອີຊີເກມ";
+"Registration" = "ລົງທະບຽນ";
+"About Us" = "ກ່ຽວກັບພວກເຮົາ";
+"Help" = "ການຊ່ວຍເຫຼືອ";
+"Terms and Condition" = "ເງື່ອນໄຂ";
+"Privacy Policy" = "ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ";
+"Notifications" = "ແຈ້ງການ";
+//MARK: - Bet Button -
+"0-9\nFirst Digit" = "0-9\nຕົວເລກ ທຳ ອິດ";
+"0-9\nLast Digit" ="0-9\nຕົວເລກສຸດທ້າຍ";
+"0-99\nTwo Digit" ="0-99\nສອງ ຕົວເລກ";
+"0-18\nBoth Digit" ="0-18\ທັງສອງ ຕົວເລກ";
+"First\nDigit" ="ຕົວເລກ\nທຳອິດ";
+"Last\nDigit" ="ຕົວເລກ\nສຸດທ້າຍ";
+"Two\nDigit" ="ສອງ\nຕົວເລກ";
+"Both\nDigit" ="ທັງສອງ\nຕົວເລກ";
+"First Digit" ="ຕົວເລກທຳອິດ";
+"Last Digit" ="ຕົວເລກສຸດທ້າຍ";
+"Two Digit" ="ສອງຕົວເລກ";
+"Both Digit" ="ທັງສອງຕົວເລກ";
+"Numbers" ="ຕົວເລກ";
+"BIG" ="ໃຫຍ່";
+"SML" ="ນ້ອຍ";
+"ODD" ="ຄີກ";
+"EVEN" ="ຄູ່";
+"LOW" ="ຕ່ ຳ";
+"MID" ="ກາງ";
+"HIGH" ="ສູງ";
+"Clear" ="ເຄຣຍ";
+"Confirm" ="ຢືນຢັນ";
+//MARK: - Alert Message -
+"OOPS!!!" ="ໂອ້ !!!";
+"Ok" ="ຕົກລົງ";
+"Alert!" ="ເຕືອນ!";
+"Cancel" ="ຍົກເລີກ";
+"Warning!" ="ຄຳເຕືອນ!";
+"Loading" ="ກຳລັງໂຫລດ";
+"Saved!" ="ບັນທຶກແລ້ວ!";
+"Error" ="ຂໍ້ຜິດພາດ";
+"NO" ="ບໍ່";
+"YES" ="ແມ່ນແລ້ວ";
+"Please enter your name" ="ກະລຸນາຂຽນຊື່ຂອງທ່ານ";
+"Please enter valid name" ="ກະລຸນາໃສ່ຊື່ທີ່ຖືກຕ້ອງ";
+"Please select gender" ="ກະລຸນາເລືອກເພດ";
+"Please select country name" ="ກະລຸນາເລືອກຊື່ປະເທດ";
+"Please enter email address" ="ກະລຸນາໃສ່ທີ່ຢູ່ອີເມວ";
+"Please select user rolling" ="ກະລຸນາເລືອກມ້ວນຜູ້ໃຊ້";
+"Please enter valid email address" ="ກະລຸນາໃສ່ທີ່ຢູ່ອີເມວທີ່ຖືກຕ້ອງ";
+"Seems like your internet services are disabled, please go to Settings and turn on Internet Services." ="ເບິ່ງຄືວ່າການບໍລິການອິນເຕີເນັດຂອງທ່ານຖືກປິດການນຳໃຊ້, ກະລຸນາໄປທີ່ການຕັ້ງຄ່າແລະເປີດໃຊ້ບໍລິການອິນເຕີເນັດ.";
+"Bet Closed" ="ການເດີມພັນຖືກປິດແລ້ວ";
+"Bet Successful" ="ສໍາເລັດ";
+"Please select stock" ="ກະລຸນາເລືອກຫຼັກຊັບ";
+"Please select digit type" ="ກະລຸນາເລືອກປະເພດຕົວເລກ";
+"Please select chips" ="ກະລຸນາເລືອກຊິບ";
+"Please select time loop related to stock" ="ກະລຸນາເລືອກເອົາຊ່ວງເວລາທີ່ກ່ຽວຂ້ອງກັບຫຼັກຊັບ";
+"Please select \'From Date\'" ="ກະລຸນາເລືອກ \'ຈາກວັນທີ \'";
+"Please select \'To Date\'" ="ກະລຸນາເລືອກ \'ຮອດວັນທີ \'";
+//MARK: - Profile -
+"Male" = "ຜູ້​ຊາຍ";
+"Female" = "ເພດຍິງ";
+"Day" = "ວັນ";
+"Weeks" = "ອາທິດ";
+"Months" = "ເດືອນ";
+"Years" = "ປີ";
+"No Record Found" = "ບໍ່ມີບັນທຶກພົບ";
+"Name" = "ຊື່";
+"Gender" = "ເພດ";
+"Email" = "ອີເມວ";
+"Country" = "ປະເທດ";
+"Rolling" = "ມ້ວນ";
+"Profile" = "ຂໍ້ມູນ";
+"Save" = "ບັນທຶກ";
+//MARK: - Current Bet -
+"Current Bet" = "ການເດີມພັນໃນປະຈຸບັນ";
+"Bet Id" = "ຕົວລະບຸການເດີມພັນ";
+"Bet Detail" = "ລາຍລະອຽດການພະນັນ";
+"Amount" = "ຈໍາ​ນວນ";
+"Payout" = "ການຈ່າຍເງິນ";
+"Bet Status" = "ສະຖານະການເດີມພັນ";
+"Total" = "ລວມທັງ ໝົດ";
+"Pending" = "ທີ່ຍັງຄ້າງ";
+//MARK: - Bet History -
+"Bet History" = "ປະຫວັດການເດີມພັນ";
+"Go" = "ໄປ";
+"Time" = "ເວລາ";
+"Player Id" = "ເພຣເຢີ້ໄອດີ";
+"Online Time" = "ເວລາອອນລາຍ";
+"Total Online" = "ອອນລາຍລວມ ";
+//MARK: - Stock list and Announcement -
+"Stock List" = "ບັນຊີຫຸ້ນ";
+"Stock Name" = "ຊື່ຫຸ້ນ";
+"Live Price" = "ລາຄາສົດ";
+"Reference" = "ເອກະສານອ້າງອີງ";
+"Title" = "ຫົວຂໍ້";
+"Preview" = "ເບິ່ງຕົວຢ່າງ";
+"Date" = "ວັນທີ";
+"Announcement" = "ປະກາດ";
+"Rules" = "ກົດລະບຽບ";
+//MARK: - Menu Screen -
+"PROFILE" = "ໂປຣໄຟລ໌";
+"CURRENT BET" = "ການແຂ່ງຂັນປະຈຸບັນ";
+"BET HISTORY" = "ປະຫວັດສາດ ການພະນັນ";
+"STOCK LIST" = "ລາຍການຫຸ້ນ";
+"STOCK ANALYSIS" = "ການວິເຄາະທາງລັດຖະກິດ";
+"ANNOUNCEMENTS" = "ສິ່ງ ໃໝ່ໆ";
+"ONLINE HISTORY" = "ອອນລາຍ ປະຫວັດສາດ";
+"RULES" = "ກົດລະບຽບ";
+"SETTINGS" = "ການຕັ້ງຄ່າ";
+//MARK: - Settings Screen -
+"Settings" = "ການຕັ້ງຄ່າ";
+"Account" = "ບັນຊີ";
+"Game Options" = "ຕົວເລືອກເກມ";
+"Tutorial" = "ການສອນ";
+"Privacy Policy" = "ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ";
+"Terms & Condition" = "ເງື່ອນໄຂແລະເງື່ອນໄຂ";
+"Language" = "ພາສາ";
+"Chips" = "ຊິບ";
+"Show Prime Membership" = "ສະແດງນາຍົກລັດຖະມົນຕີ";
+"Sound" = "ສຽງ";
+"Allow to Follow me" = "ອະນຸຍາດໃຫ້ຕິດຕາມຂ້ອຍ";
+"Show my Online status to my Followers" = "ສະແດງສະຖານະພາບຂອງຂ້ອຍທາງອິນເຕີເນັດໃຫ້ຜູ້ຕິດຕາມຂ້ອຍ";
+"Notifications when Friends come Online" = "ການແຈ້ງເຕືອນເມື່ອໝູ່ເຂົ້າອອນລາຍ";
+"Logout" = "ອອກ​ຈາກ​ລະ​ບົບ";
+"Everyone" = "ທຸກໆຄົນ";
+"No One" = "ບໍ່​ມີ​ໃຜ";
+"Change" = "ປ່ຽນແປງ";
+"View" = "ເບິ່ງ";
+//MARK: - Stock Analysis -
+"GO" = "ໄປ";
+"Win" = "ຊະນະ";
+"Lose" = "ສູນເສຍ";
+"Sort By" = "ຈັດຮຽງຕາມ";
+"Select Date" = "ເລືອກວັນທີ";
+"Calculating..." = "ການຄິດໄລ່ ...";
+"Total Bet(s) - " = "ການເດີມພັນທັງ ໝົດ -";
+"Win - " = "ຊະນະ -";
+"Lose - " = "ສູນເສຍ -";
+"Payout: 1.95" = "ການຈ່າຍເງິນ: 1.95";
+"Payout: 9.82" = "ການຈ່າຍເງິນ: 9.82";
+"Payout: 98.82" = "ການຈ່າຍເງິນ: 98.82";
+"Payout: 19.92" = "ການຈ່າຍເງິນ: 19.92";
+"Close" = "ປິດ";
+"Select the road map for directly onboarding" = "ເລືອກແຜນທີ່ເສັ້ນທາງ ສຳ ລັບລົງເຮືອໂດຍກົງ";
+"Stock Name - " = "ຊື່ຫຸ້ນ - ";

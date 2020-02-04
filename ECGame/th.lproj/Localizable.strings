@@ -1,0 +1,176 @@
+/*
+  Localizable.strings
+  ECGame
+
+  Created by hfcb on 22/01/20.
+  Copyright © 2020 tnk. All rights reserved.
+*/
+//MARK: - GameView Controller -
+"US Stock" = "หุ้นสหรัฐ";
+"China Stock" = "หุ้นจีน";
+"Crypto Currency" = "สกุลเงินดิจิตอล";
+"SH000001" = "SH000001";
+"SZ399001" = "SZ399001";
+"SZ399415" = "SZ399415";
+"SH000300" = "SH000300";
+"US Dollar Index" = "ดอลลาร์สหรัฐ";
+"BTC/USDT" = "เหรียญบิต/ดอลล่าร์";
+"1 Minute Loop" = "1 นาทีวนซ้ำ";
+"5 Minute Loop" = "วน 5 นาที";
+"Select BTU" = "เลือกหน่วยความร้อนบริติช";
+"Select Time" = "เลือกเวลา";
+"gaming" = "เกม";
+"Clear" = "ชัดเจน";
+"Confirm" = "ยืนยัน";
+"LAST DRAW:" = "ผลลับล้าสุด:";
+"TOTAL WINNINGS:" = "การชนะทั้งหมด:";
+"NO OF USERS:" = "จำนวนผู้ใช้:";
+"RESULTS:" = "ผล:";
+//MARK: - Picker Title -
+"From Date" = "จากวันที่";
+"To Date" = "ถึงวันที่";
+// MARK: - Navigation Bar Title -
+"EC Game" = "อีซีเกม";
+"Registration" = "ลงทะเบียน";
+"About Us" = "เกี่ยวกับเรา";
+"Help" = "ช่วยเหลือ";
+"Terms and Condition" = "ข้อกำหนดและเงื่อนไข";
+"Privacy Policy" = "นโยบายความเป็นส่วนตัว";
+"Notifications" = "การแจ้งเตือน";
+//MARK: - Bet Button -
+"0-9\nFirst Digit" = "0-9\nหลักแรก";
+"0-9\nLast Digit" = "0-9\nตัวเลขสุดท้าย";
+"0-99\nTwo Digit" = "0-99\nสองหลัก";
+"0-18\nBoth Digit" = "0-18\nทั้งสองหลัก";
+"First\nDigit" = "ตัวเลข\nแรก";
+"Last\nDigit" = "ตัวเลข\nหลัง";
+"Two\nDigit" = "สอง\nตัวเลข";
+"Both\nDigit" = "ทั้ง\nตัวเลข";
+"First Digit" = "ตัวเลขแรก";
+"Last Digit" = "เลขตัวสุดท้าย";
+"Two Digit" = "สองหลัก";
+"Both Digit" = "ทั้งสองหลัก";
+"Numbers" = "ตัวเลข";
+"BIG" = "ใหญ่";
+"SML" = "เล็ก";
+"ODD" = "คี่";
+"EVEN" = "คู่";
+"LOW" = "ต่ำ";
+"MID" = "กลาง";
+"HIGH" = "สูง";
+"Clear" = "ชัดเจน";
+"Confirm" = "ยืนยัน";
+//MARK: - Alert Message -
+"OOPS!!!" = "อ๊ะ! !!!";
+"Ok" = "ตกลง";
+"Alert!" = "การแจ้งเตือน!";
+"Cancel" = "ยกเลิก";
+"Warning!" = "คำเตือน!";
+"Loading" = "โหลด";
+"Saved!" = "บันทึกไว้!";
+"Error" = "ข้อผิดพลาด";
+"NO" = "ไม่";
+"YES" = "ใช่";
+"Please enter your name" = "กรุณากรอกชื่อของคุณ";
+"Please enter valid name" = "กรุณาใส่ชื่อที่ถูกต้อง";
+"Please select gender" = "โปรดเลือกเพศ";
+"Please select country name" = "กรุณาเลือกชื่อประเทศ";
+"Please enter email address" = "กรุณาใส่ที่อยู่อีเมล";
+"Please select user rolling" = "กรุณาเลือกผู้ใช้กลิ้ง";
+"Please enter valid email address" = "กรุณาใส่ที่อยู่อีเมลที่ถูกต้อง";
+"Seems like your internet services are disabled, please go to Settings and turn on Internet Services." = "ดูเหมือนว่าบริการอินเทอร์เน็ตของคุณถูกปิดใช้งานโปรดไปที่การตั้งค่าและเปิดบริการอินเทอร์เน็ต";
+"Bet Closed" = "เดิมพันปิด";
+"Bet Successful" = "เดิมพันสำเร็จ";
+"Please select stock" = "กรุณาเลือกหุ้น";
+"Please select digit type" = "โปรดเลือกประเภทหลัก";
+"Please select chips" = "กรุณาเลือกชิป";
+"Please select time loop related to stock" = "กรุณาเลือกช่วงเวลาที่เกี่ยวข้องกับสต็อก";
+"Please select \'From Date\'" = "กรุณาเลือก \'จากวันที่ \'";
+"Please select \'To Date\'" = "กรุณาเลือก \'ถึงวันที่\'";
+//MARK: - Profile -
+"Male" = "ชาย";
+"Female" = "หญิง";
+"Day" = "วัน";
+"Weeks" = "สัปดาห์";
+"Months" = "เดือน";
+"Years" = "ปี";
+"No Record Found" = "ไม่พบบันทึก";
+"Name" = "ชื่อ";
+"Gender" = "เพศ";
+"Email" = "อีเมล์";
+"Country" = "ประเทศ";
+"Rolling" = "โรลลิ่ง";
+"Profile" = "ข้อมูลส่วนตัว";
+"Save" = "บันทึก";
+//MARK: - Current Bet -
+"Current Bet" = "การเดิมพันปัจจุบัน";
+"Bet Id" = "ตัวระบุการเดิมพัน";
+"Bet Detail" = "รายละเอียดการเดิมพัน";
+"Amount" = "จำนวน";
+"Payout" = "การชำระเงิน";
+"Bet Status" = "สถานะการเดิมพัน";
+"Total" = "ที่จะรวม";
+"Pending" = "รอดำเนินการ";
+//MARK: - Bet History  -
+"Bet History" = "ประวัติการเดิมพัน";
+"Go" = "ไป";
+"Time" = "เวลา";
+"Player Id" = "ตัวระบุผู้เล่น";
+"Online Time" = "เวลาออนไลน์";
+"Total Online" = "ออนไลน์ทั้งหมด";
+//MARK: - Stock list and Announcement -
+"Stock List" = "รายการสต็อค";
+"Stock Name" = "ชื่อสต็อค";
+"Live Price" = "ราคาสด";
+"Reference" = "อ้างอิง";
+"Title" = "หัวข้อ";
+"Preview" = "ดูตัวอย่าง";
+"Date" = "วัน";
+"Announcement" = "ประกาศ";
+"Rules" = "กฎ";
+//MARK: - Menu Screen -
+"PROFILE" = "ข้อมูลส่วนตัว";
+"CURRENT BET" = "การเดิมพันปัจจุบัน";
+"BET HISTORY" = "ประวัติความเป็นมาของการเดิมพัน";
+"STOCK LIST" = "รายการสต็อก";
+"STOCK ANALYSIS" = "การวิเคราะห์สต็อก";
+"ANNOUNCEMENTS" = "ประชาสัมพันธ์";
+"ONLINE HISTORY" = "ประวัติออนไลน์";
+"RULES" = "กฎ";
+"SETTINGS" = "การตั้งค่า";
+//MARK: - Settings Screen -
+"Settings" = "การตั้งค่า";
+"Account" = "บัญชีผู้ใช้";
+"Game Options" = "ตัวเลือกเกม";
+"Tutorial" = "เกี่ยวกับการสอน";
+"Privacy Policy" = "นโยบายความเป็นส่วนตัว";
+"Terms & Condition" = "ข้อกำหนดและเงื่อนไข";
+"Language" = "ภาษา";
+"Chips" = "เงิน";
+"Show Prime Membership" = "แสดงสมาชิกระดับสูงสุด";
+"Sound" = "เสียง";
+"Allow to Follow me" = "อนุญาตให้ติดตามฉัน";
+"Show my Online status to my Followers" = "แสดงสถานะออนไลน์ของฉันต่อผู้ติดตามของฉัน";
+"Notifications when Friends come Online" = "การแจ้งเตือนเมื่อเพื่อนมาออนไลน์";
+"Logout" = "ออกจากระบบ";
+"Everyone" = "ทุกคน";
+"No One" = "ไม่มีใคร";
+"Change" = "เปลี่ยนแปลง";
+"View" = "ดู";
+//MARK: - Stock Analysis -
+"GO" = "ไป";
+"Win" = "ชนะ";
+"Lose" = "แพ้";
+"Sort By" = "จัดเรียงตาม";
+"Select Date" = "เลือกวันที่";
+"Calculating..." = "กำลังคำนวณ ...";
+"Total Bet(s) - " = "การเดิมพันทั้งหมด -";
+"Win - " = "วิน -";
+"Lose - " = "แพ้ -";
+"Payout: 1.95" = "การจ่ายเงิน: 1.95";
+"Payout: 9.82" = "การจ่ายเงิน: 9.82";
+"Payout: 98.82" = "การจ่ายเงิน: 98.82";
+"Payout: 19.92" = "การจ่ายเงิน: 19.92";
+"Close" = "ปิด";
+"Select the road map for directly onboarding" = "เลือกแผนที่ถนนสำหรับการลงทะเบียนโดยตรง";
+"Stock Name - " = "ชื่อสต็อค - ";

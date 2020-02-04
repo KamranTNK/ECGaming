@@ -1,0 +1,47 @@
+[
+    {
+        "menuname": "PROFILE",
+        "imageName": "Profile-1.png",
+        "viewController" : "UserProfileViewController"
+    },
+    {
+        "menuname": "CURRENT BET",
+        "imageName": "Current bet.png",
+        "viewController" : "CurrentBetViewController"
+    },
+    {
+        "menuname": "BET HISTORY",
+        "imageName": "History.png",
+        "viewController" : "BetHistoryViewController"
+    },
+    {
+        "menuname": "STOCK LIST",
+        "imageName": "stockList.png",
+        "viewController" : "StockListViewController"
+    },
+    {
+        "menuname": "STOCK ANALYSIS",
+        "imageName": "stockAnalysis.png",
+        "viewController" : "StockAnalysisViewController"
+    },
+    {
+        "menuname": "ANNOUNCEMENTS",
+        "imageName": "announcment.png",
+        "viewController" : "AnnouncementViewController"
+    },
+    {
+        "menuname": "ONLINE HISTORY",
+        "imageName": "onlineHistory.png",
+        "viewController" : "OnlineHistoryViewController"
+    },
+    {
+        "menuname": "RULES",
+        "imageName": "rule.png",
+        "viewController" : "RulesViewController"
+    },
+    {
+        "menuname": "SETTINGS",
+        "imageName": "Setting.png",
+        "viewController" : "SettingsViewController"
+    }
+]

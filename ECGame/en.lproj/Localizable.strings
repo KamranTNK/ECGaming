@@ -1,0 +1,176 @@
+/* 
+  Localizable.strings
+  ECGame
+
+  Created by hfcb on 22/01/20.
+  Copyright © 2020 tnk. All rights reserved.
+*/
+//MARK: - GameView Controller -
+"US Stock" = "US Stock";
+"China Stock" = "China Stock";
+"Crypto Currency" = "Crypto Currency";
+"SH000001" = "SH000001";
+"SZ399001" = "SZ399001";
+"SZ399415" = "SZ399415";
+"SH000300" = "SH000300";
+"US Dollar Index" = "US Dollar Index";
+"BTC/USDT" = "BTC/USDT";
+"1 Minute Loop" = "1 Minute Loop";
+"5 Minute Loop" = "5 Minute Loop";
+"Select BTU" = "Select BTU";
+"Select Time" = "Select Time";
+"gaming" = "gaming";
+"Clear" = "Clear";
+"Confirm" = "Confirm";
+"LAST DRAW:" = "LAST DRAW:";
+"TOTAL WINNINGS:" = "TOTAL WINNINGS:";
+"NO OF USERS:" = "NO OF USERS:";
+"RESULTS:" = "RESULTS:";
+//MARK: - Picker Title -
+"From Date" = "From Date";
+"To Date" = "To Date";
+// MARK: - Navigation Bar Title -
+"EC Game" = "EC Game";
+"Registration" = "Registration";
+"About Us" = "About Us";
+"Help" = "Help";
+"Terms and Condition" = "Terms and Condition";
+"Privacy Policy" = "Privacy Policy";
+"Notifications" = "Notifications";
+//MARK: - Bet Button -
+"0-9\nFirst Digit" = "0-9\nFirst Digit";
+"0-9\nLast Digit" = "0-9\nLast Digit";
+"0-99\nTwo Digit" = "0-99\nTwo Digit";
+"0-18\nBoth Digit" = "0-18\nBoth Digit";
+"First\nDigit" = "First\nDigit";
+"Last\nDigit" = "Last\nDigit";
+"Two\nDigit" = "Two\nDigit";
+"Both\nDigit" = "Both\nDigit";
+"First Digit" = "First Digit";
+"Last Digit" = "Last Digit";
+"Two Digit" = "Two Digit";
+"Both Digit" = "Both Digit";
+"Numbers" = "Numbers";
+"BIG" = "BIG";
+"SML" = "SML";
+"ODD" = "ODD";
+"EVEN" = "EVEN";
+"LOW" = "LOW";
+"MID" = "MID";
+"HIGH" = "HIGH";
+"Clear" = "Clear";
+"Confirm" = "Confirm";
+//MARK: - Alert Message -
+"OOPS!!!" = "OOPS!!!";
+"Ok" = "Ok";
+"Alert!" = "Alert!";
+"Cancel" = "Cancel";
+"Warning!" = "Warning!";
+"Loading" = "Loading";
+"Saved!" = "Saved!";
+"Error" = "Error";
+"NO" = "NO";
+"YES" = "YES";
+"Please enter your name" = "Please enter your name";
+"Please enter valid name" = "Please enter valid name";
+"Please select gender" = "Please select gender";
+"Please select country name" = "Please select country name";
+"Please enter email address" = "Please enter email address";
+"Please select user rolling" = "Please select user rolling";
+"Please enter valid email address" = "Please enter valid email address";
+"Seems like your internet services are disabled, please go to Settings and turn on Internet Services." = "Seems like your internet services are disabled, please go to Settings and turn on Internet Services.";
+"Bet Closed" = "Bet Closed";
+"Bet Successful" = "Bet Successful";
+"Please select stock" = "Please select stock";
+"Please select digit type" = "Please select digit type";
+"Please select chips" = "Please select chips";
+"Please select time loop related to stock" = "Please select time loop related to stock";
+"Please select \'From Date\'" = "Please select \'From Date\'";
+"Please select \'To Date\'" = "Please select \'To Date\'";
+//MARK: - Profile -
+"Male" = "Male";
+"Female" = "Female";
+"Day" = "Day";
+"Weeks" = "Weeks";
+"Months" = "Months";
+"Years" = "Years";
+"No Record Found" = "No Record Found";
+"Name" = "Name:";
+"Gender" = "Gender:";
+"Email" = "Email:";
+"Country" = "Country:";
+"Rolling" = "Rolling:";
+"Profile" = "Profile";
+"Save" = "Save";
+//MARK: - Current Bet -
+"Current Bet" = "Current Bet";
+"Bet Id" = "Bet Id";
+"Bet Detail" = "Bet Detail";
+"Amount" = "Amount";
+"Payout" = "Payout";
+"Bet Status" = "Bet Status";
+"Total" = "Total";
+"Pending" = "Pending";
+//MARK: - Bet History -
+"Bet History" = "Bet History";
+"Go" = "Go";
+"Time" = "Time";
+"Player Id" = "Player Id";
+"Online Time" = "Online Time";
+"Total Online" = "Total Online";
+//MARK: - Stock list , Announcement and  Rules-
+"Stock List" = "Stock List";
+"Stock Name" = "Stock Name";
+"Live Price" = "Live Price";
+"Reference" = "Reference";
+"Title" = "Title";
+"Preview" = "Preview";
+"Date" = "Date";
+"Announcements" = "Announcements";
+"Rules" = "Rules";
+//MARK: - Menu Screen -
+"PROFILE" = "PROFILE";
+"CURRENT BET" = "CURRENT BET";
+"BET HISTORY" = "BET HISTORY";
+"STOCK LIST" = "STOCK LIST";
+"STOCK ANALYSIS" = "STOCK ANALYSIS";
+"ANNOUNCMENTS" = "ANNOUNCEMENTS";
+"ONLINE HISTORY" = "ONLINE HISTORY";
+"RULES" = "RULES";
+"SETTINGS" = "SETTINGS";
+//MARK: - Settings Screen -
+"Settings" = "Settings";
+"Account" = "Account";
+"Game Options" = "Game Options";
+"Tutorial" = "Tutorial";
+"Privacy Policy" = "Privacy Policy";
+"Terms & Condition" = "Terms & Condition";
+"Language" = "Language";
+"Chips" = "Chips";
+"Show Prime Membership" = "Show Prime Membership";
+"Sound" = "Sound";
+"Allow to Follow me" = "Allow to Follow me";
+"Show my Online status to my Followers" = "Show my Online status to my Followers";
+"Notifications when Friends come Online" = "Notifications when Friends come Online";
+"Logout" = "Logout";
+"Everyone" = "Everyone";
+"No One" = "No One";
+"Change" = "Change";
+"View" = "View";
+//MARK: - Stock Analysis -
+"GO" = "GO";
+"Win" = "Win";
+"Lose" = "Lose";
+"Sort By" = "Sort By";
+"Select Date" = "Select Date";
+"Calculating..." = "Calculating...";
+"Total Bet(s) - " = "Total Bet(s) - ";
+"Win - " = "Win - ";
+"Lose - " = "Lose - ";
+"Payout: 1.95" = "Payout: 1.95";
+"Payout: 9.82" = "Payout: 9.82";
+"Payout: 98.82" = "Payout: 98.82";
+"Payout: 19.92" = "Payout: 19.92";
+"Close" = "";
+"Select the road map for directly onboarding" = "Select the road map for directly onboarding";
+"Stock Name - " = "Stock Name - ";

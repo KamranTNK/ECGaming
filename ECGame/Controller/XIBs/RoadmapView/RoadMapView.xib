@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clipsSubviews="YES" contentMode="scaleToFill" id="iN0-l3-epB" customClass="RoadMapView" customModule="ECGame" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="380" height="457"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <visualEffectView opaque="NO" contentMode="scaleAspectFill" translatesAutoresizingMaskIntoConstraints="NO" id="FXF-VQ-Xwv">
+                    <rect key="frame" x="0.0" y="0.0" width="380" height="457"/>
+                    <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="Xaq-3Z-2ky">
+                        <rect key="frame" x="0.0" y="0.0" width="380" height="457"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <visualEffectView opaque="NO" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="zJn-5e-WHU">
+                                <rect key="frame" x="0.0" y="0.0" width="140" height="329"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" ambiguous="YES" insetsLayoutMarginsFromSafeArea="NO" id="id3-b6-jIn">
+                                    <rect key="frame" x="0.0" y="0.0" width="140" height="329"/>
+                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                </view>
+                                <vibrancyEffect>
+                                    <blurEffect style="regular"/>
+                                </vibrancyEffect>
+                            </visualEffectView>
+                        </subviews>
+                    </view>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <blurEffect style="regular"/>
+                </visualEffectView>
+                <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="JK6-Pv-Wce">
+                    <rect key="frame" x="10" y="64" width="115" height="135"/>
+                    <subviews>
+                        <button opaque="NO" tag="1" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ndH-rz-ozp">
+                            <rect key="frame" x="0.0" y="0.0" width="115" height="30"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="30" id="fds-S1-7VR"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="12"/>
+                            <state key="normal" title="First Digit" backgroundImage="first digit">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                            <state key="selected" backgroundImage="first digit active"/>
+                            <connections>
+                                <action selector="changeRoadmapWithSelectdTypeAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="hda-bL-3Sg"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" tag="2" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gr8-nJ-Bys">
+                            <rect key="frame" x="0.0" y="35" width="115" height="30"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="30" id="r9P-pX-hlb"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="12"/>
+                            <state key="normal" title="Last Digit" backgroundImage="last digit">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                            <state key="selected" backgroundImage="last digit active"/>
+                            <connections>
+                                <action selector="changeRoadmapWithSelectdTypeAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="99Z-Oq-bF7"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" tag="3" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Vqz-IF-i6d">
+                            <rect key="frame" x="0.0" y="70" width="115" height="30"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="30" id="Hjj-xh-vf4"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="12"/>
+                            <state key="normal" backgroundImage="Two digit">
+                                <string key="title" base64-UTF8="YES">
+EFR3byBEaWdpdHM
+</string>
+                            </state>
+                            <state key="selected" backgroundImage="Two digit active"/>
+                            <connections>
+                                <action selector="changeRoadmapWithSelectdTypeAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="VgE-Ex-Qdm"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" tag="4" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="feM-VA-bhh">
+                            <rect key="frame" x="0.0" y="105" width="115" height="30"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="30" id="4Df-2m-46c"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="12"/>
+                            <state key="normal" title="Both Digits" backgroundImage="Both digit">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                            <state key="selected" backgroundImage="Both digit active"/>
+                            <connections>
+                                <action selector="changeRoadmapWithSelectdTypeAction:" destination="iN0-l3-epB" eventType="touchUpInside" id="VFy-1L-gqh"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="115" id="n9B-9L-b3y"/>
+                    </constraints>
+                </stackView>
+                <stackView opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" axis="vertical" spacing="3" translatesAutoresizingMaskIntoConstraints="NO" id="LGG-aU-bAl">
+                    <rect key="frame" x="10" y="236" width="115" height="201"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="LAST DRAW:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="A7e-Eq-ia6">
+                            <rect key="frame" x="0.0" y="0.0" width="115" height="20"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="20" id="SaG-vp-dJd"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="12"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="3" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Jik-Dm-PPb">
+                            <rect key="frame" x="0.0" y="23" width="115" height="25"/>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="25" id="Faw-If-ZkX"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="12"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="TOTAL WINNINGS:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NL1-VJ-6uq">
+                            <rect key="frame" x="0.0" y="51" width="115" height="20"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="20" id="hIF-f1-6Tt"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="12"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="22" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2xr-ux-96v">
+                            <rect key="frame" x="0.0" y="74" width="115" height="25"/>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="25" id="xtT-ZB-pVP"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="12"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="No. of Users:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="AYC-wh-4fS">
+                            <rect key="frame" x="0.0" y="102" width="115" height="20"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="20" id="XcY-bD-dPn"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="12"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="22" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3qH-Un-jSe">
+                            <rect key="frame" x="0.0" y="125" width="115" height="25"/>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="25" id="oqc-8i-HiM"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="12"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="RESULTS:" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gJe-On-vSM">
+                            <rect key="frame" x="0.0" y="153" width="115" height="20"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="20" id="4Ls-nf-ttP"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="12"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="22" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SLB-78-bHl">
+                            <rect key="frame" x="0.0" y="176" width="115" height="25"/>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="25" id="AYF-rA-cU6"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="12"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="115" id="GFl-5v-NWY"/>
+                    </constraints>
+                </stackView>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="hQd-Xk-9pF">
+                    <rect key="frame" x="133" y="64" width="232" height="383"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="vRP-0R-o87"/>
+                        <outlet property="delegate" destination="-1" id="EcA-fe-urZ"/>
+                    </connections>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <color key="tintColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="FXF-VQ-Xwv" firstAttribute="bottom" secondItem="iN0-l3-epB" secondAttribute="bottom" id="0gt-K6-BDN"/>
+                <constraint firstItem="JK6-Pv-Wce" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="10" id="5In-7U-FuG"/>
+                <constraint firstItem="FXF-VQ-Xwv" firstAttribute="trailing" secondItem="iN0-l3-epB" secondAttribute="trailing" id="7MY-Sv-ubF"/>
+                <constraint firstItem="FXF-VQ-Xwv" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="B5w-BS-WYc"/>
+                <constraint firstItem="LGG-aU-bAl" firstAttribute="leading" secondItem="JK6-Pv-Wce" secondAttribute="leading" id="Yei-kv-ZLN"/>
+                <constraint firstAttribute="bottom" secondItem="LGG-aU-bAl" secondAttribute="bottom" constant="20" id="ZDf-aJ-rxG"/>
+                <constraint firstItem="FXF-VQ-Xwv" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="bvj-Sp-37s"/>
+                <constraint firstItem="hQd-Xk-9pF" firstAttribute="trailing" secondItem="vUN-kp-3ea" secondAttribute="trailing" constant="-15" id="ffq-aF-oNZ"/>
+                <constraint firstAttribute="bottom" secondItem="hQd-Xk-9pF" secondAttribute="bottom" constant="10" id="hzQ-ay-oT9"/>
+                <constraint firstItem="hQd-Xk-9pF" firstAttribute="leading" secondItem="JK6-Pv-Wce" secondAttribute="trailing" constant="8" id="r8g-00-Ew1"/>
+                <constraint firstItem="hQd-Xk-9pF" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="20" id="rtn-H0-LHP"/>
+                <constraint firstItem="JK6-Pv-Wce" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="20" id="ume-jA-KJ4"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="bothDigitBtn" destination="feM-VA-bhh" id="5lM-RO-oL0"/>
+                <outlet property="bottomTableViewContraint" destination="hzQ-ay-oT9" id="iEx-aW-niJ"/>
+                <outlet property="buttonsStackView" destination="JK6-Pv-Wce" id="KsA-ar-c4q"/>
+                <outlet property="firstDigitBtn" destination="ndH-rz-ozp" id="sMN-in-0gZ"/>
+                <outlet property="labelsStackView" destination="LGG-aU-bAl" id="e8v-pX-2AA"/>
+                <outlet property="lastDrawLbl" destination="Jik-Dm-PPb" id="zlr-DC-lRv"/>
+                <outlet property="lastDrawTitleLbl" destination="A7e-Eq-ia6" id="9rw-ID-Gi3"/>
+                <outlet property="lstDigitBtn" destination="gr8-nJ-Bys" id="H5o-bm-oez"/>
+                <outlet property="resultLbl" destination="SLB-78-bHl" id="GGN-xP-jW8"/>
+                <outlet property="resultTitleLbl" destination="gJe-On-vSM" id="b6B-TI-mNx"/>
+                <outlet property="roadMapTableView" destination="hQd-Xk-9pF" id="p3g-ai-a1j"/>
+                <outlet property="twoDigitBtn" destination="Vqz-IF-i6d" id="pq7-9W-Wet"/>
+                <outlet property="userLbl" destination="3qH-Un-jSe" id="5ve-HE-MvW"/>
+                <outlet property="userTitleLbl" destination="AYC-wh-4fS" id="6cJ-Iy-dBZ"/>
+                <outlet property="winningsLbl" destination="2xr-ux-96v" id="CHn-O3-6if"/>
+                <outlet property="winningsTitleLbl" destination="NL1-VJ-6uq" id="slB-WW-tLN"/>
+            </connections>
+            <point key="canvasLocation" x="-1194" y="-597"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="Both digit" width="92" height="27"/>
+        <image name="Both digit active" width="92" height="27"/>
+        <image name="Two digit" width="92" height="27"/>
+        <image name="Two digit active" width="92" height="27"/>
+        <image name="first digit" width="92" height="27"/>
+        <image name="first digit active" width="92" height="27"/>
+        <image name="last digit" width="92" height="27"/>
+        <image name="last digit active" width="92" height="27"/>
+    </resources>
+</document>

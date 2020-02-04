@@ -1,0 +1,279 @@
+
+/* Class = "UILabel"; text = "Payout"; ObjectID = "1S4-Rm-mrE"; */
+"1S4-Rm-mrE.text" = "Payout";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "2K9-Lm-3Mi"; */
+"2K9-Lm-3Mi.text" = "100";
+
+/* Class = "UILabel"; text = "2 Hours 20 Minutes"; ObjectID = "3J9-j2-isd"; */
+"3J9-j2-isd.text" = "2 Hours 20 Minutes";
+
+/* Class = "UILabel"; text = "Payout"; ObjectID = "3WZ-gQ-Fpt"; */
+"3WZ-gQ-Fpt.text" = "Payout";
+
+/* Class = "UILabel"; text = "321654.36"; ObjectID = "3pJ-5C-AgF"; */
+"3pJ-5C-AgF.text" = "321654.36";
+
+/* Class = "UILabel"; text = "SH000001"; ObjectID = "45e-xy-cdW"; */
+"45e-xy-cdW.text" = "SH000001";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "4wL-eX-icr"; */
+"4wL-eX-icr.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "10000"; ObjectID = "5cW-3C-BWw"; */
+"5cW-3C-BWw.text" = "10000";
+
+/* Class = "UILabel"; text = "EMAIL :"; ObjectID = "6IL-A3-Oaq"; */
+"6IL-A3-Oaq.text" = "EMAIL :";
+
+/* Class = "UIButton"; normalTitle = "From Date"; ObjectID = "7d6-Rr-dQq"; */
+"7d6-Rr-dQq.normalTitle" = "From Date";
+
+/* Class = "UILabel"; text = "PROFILE"; ObjectID = "7hO-Bn-Thn"; */
+"7hO-Bn-Thn.text" = "PROFILE";
+
+/* Class = "UILabel"; text = "ONLINE HISTORY"; ObjectID = "9Bf-3u-RYp"; */
+"9Bf-3u-RYp.text" = "ONLINE HISTORY";
+
+/* Class = "UILabel"; text = "ANNOUNCEMENTS"; ObjectID = "9p7-RS-aiU"; */
+"9p7-RS-aiU.text" = "ANNOUNCEMENTS";
+
+/* Class = "UIButton"; normalTitle = "View"; ObjectID = "A67-WH-zjD"; */
+"A67-WH-zjD.normalTitle" = "View";
+
+/* Class = "UILabel"; text = "User"; ObjectID = "AbT-RC-D9s"; */
+"AbT-RC-D9s.text" = "User";
+
+/* Class = "UITextField"; placeholder = "anderson.george@gmail.com"; ObjectID = "BM7-bw-zOm"; */
+"BM7-bw-zOm.placeholder" = "anderson.george@gmail.com";
+
+/* Class = "UILabel"; text = "$ 10000"; ObjectID = "BbG-Ub-bFH"; */
+"BbG-Ub-bFH.text" = "$ 10000";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BbY-81-mzF"; */
+"BbY-81-mzF.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "$ NAN"; ObjectID = "D72-jV-sNT"; */
+"D72-jV-sNT.placeholder" = "$ NAN";
+
+/* Class = "UIButton"; normalTitle = "To Date"; ObjectID = "DPq-vJ-991"; */
+"DPq-vJ-991.normalTitle" = "To Date";
+
+/* Class = "UILabel"; text = "TITLE"; ObjectID = "EWD-t4-eej"; */
+"EWD-t4-eej.text" = "TITLE";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "EWw-6a-B32"; */
+"EWw-6a-B32.text" = "Time";
+
+/* Class = "UIButton"; normalTitle = "Sort By"; ObjectID = "FQW-EA-lhH"; */
+"FQW-EA-lhH.normalTitle" = "Sort By";
+
+/* Class = "UILabel"; text = "LIVE PRICE"; ObjectID = "FQg-qJ-eqv"; */
+"FQg-qJ-eqv.text" = "LIVE PRICE";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "GTO-S7-TFl"; */
+"GTO-S7-TFl.text" = "Amount";
+
+/* Class = "UILabel"; text = "DATE"; ObjectID = "GtS-n5-W4W"; */
+"GtS-n5-W4W.text" = "DATE";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "HbJ-LC-Hzs"; */
+"HbJ-LC-Hzs.normalTitle" = "SAVE";
+
+/* Class = "UILabel"; text = "NEW ADDED"; ObjectID = "IyN-c3-WKn"; */
+"IyN-c3-WKn.text" = "NEW ADDED";
+
+/* Class = "UILabel"; text = "$ 10000"; ObjectID = "JFk-VR-jLb"; */
+"JFk-VR-jLb.text" = "$ 10000";
+
+/* Class = "UILabel"; text = "Tutorial"; ObjectID = "Jlr-SD-opt"; */
+"Jlr-SD-opt.text" = "Tutorial";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "MOU-qR-T1I"; */
+"MOU-qR-T1I.text" = "1";
+
+/* Class = "UILabel"; text = "$ Balance"; ObjectID = "NK2-Zg-TMT"; */
+"NK2-Zg-TMT.text" = "$ Balance";
+
+/* Class = "UILabel"; text = "GENDER :"; ObjectID = "Npz-3R-XdX"; */
+"Npz-3R-XdX.text" = "GENDER :";
+
+/* Class = "UIButton"; normalTitle = "GO"; ObjectID = "P1d-rY-ytL"; */
+"P1d-rY-ytL.normalTitle" = "GO";
+
+/* Class = "UILabel"; text = "2020-01-13 14:07:55"; ObjectID = "PGl-dg-DV4"; */
+"PGl-dg-DV4.text" = "2020-01-13 14:07:55";
+
+/* Class = "UILabel"; text = "Last Digit - Small (1.95) BTC/USDT 1 Minute"; ObjectID = "PX8-zL-PN7"; */
+"PX8-zL-PN7.text" = "Last Digit - Small (1.95) BTC/USDT 1 Minute";
+
+/* Class = "UILabel"; text = "STOCK NAME"; ObjectID = "SKo-uo-Ofr"; */
+"SKo-uo-Ofr.text" = "STOCK NAME";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "SxD-B2-4tp"; */
+"SxD-B2-4tp.text" = "Amount";
+
+/* Class = "UIButton"; normalTitle = "No One"; ObjectID = "TCH-RK-hR0"; */
+"TCH-RK-hR0.normalTitle" = "No One";
+
+/* Class = "UIButton"; normalTitle = "From Date"; ObjectID = "Tc0-2v-6b8"; */
+"Tc0-2v-6b8.normalTitle" = "From Date";
+
+/* Class = "UIButton"; normalTitle = " Sort By"; ObjectID = "TwB-3W-g5n"; */
+"TwB-3W-g5n.normalTitle" = " Sort By";
+
+/* Class = "UIButton"; normalTitle = "GO"; ObjectID = "Tzl-lI-5RB"; */
+"Tzl-lI-5RB.normalTitle" = "GO";
+
+/* Class = "UILabel"; text = "ROLLING :"; ObjectID = "U5U-IX-C8L"; */
+"U5U-IX-C8L.text" = "ROLLING :";
+
+/* Class = "UILabel"; text = "NAME :"; ObjectID = "Ubd-sr-H6E"; */
+"Ubd-sr-H6E.text" = "NAME :";
+
+/* Class = "UILabel"; text = "Online status"; ObjectID = "UrK-hi-imI"; */
+"UrK-hi-imI.text" = "Online status";
+
+/* Class = "UILabel"; text = "Bet Status"; ObjectID = "VUb-du-sZ7"; */
+"VUb-du-sZ7.text" = "Bet Status";
+
+/* Class = "UILabel"; text = "Online Time :"; ObjectID = "Vzp-IH-edh"; */
+"Vzp-IH-edh.text" = "Online Time :";
+
+/* Class = "UITextField"; placeholder = "Anderson, George"; ObjectID = "W7c-Je-0Po"; */
+"W7c-Je-0Po.placeholder" = "Anderson, George";
+
+/* Class = "UILabel"; text = "COUNTRY :"; ObjectID = "WcA-jN-hJC"; */
+"WcA-jN-hJC.text" = "COUNTRY :";
+
+/* Class = "UILabel"; text = "Show Prime Membership"; ObjectID = "Wd3-Uf-Khs"; */
+"Wd3-Uf-Khs.text" = "Show Prime Membership";
+
+/* Class = "UILabel"; text = "CHIPS"; ObjectID = "Ytp-uj-gnG"; */
+"Ytp-uj-gnG.text" = "CHIPS";
+
+/* Class = "UILabel"; text = "1000"; ObjectID = "Z4k-nb-yq5"; */
+"Z4k-nb-yq5.text" = "1000";
+
+/* Class = "UIButton"; normalTitle = "From Date"; ObjectID = "ZXd-mB-gih"; */
+"ZXd-mB-gih.normalTitle" = "From Date";
+
+/* Class = "UILabel"; text = "BET HISTORY"; ObjectID = "azu-01-yyJ"; */
+"azu-01-yyJ.text" = "BET HISTORY";
+
+/* Class = "UILabel"; text = "Bet Id"; ObjectID = "bHu-9M-o8S"; */
+"bHu-9M-o8S.text" = "Bet Id";
+
+/* Class = "UILabel"; text = "Total "; ObjectID = "bt3-1w-FJ2"; */
+"bt3-1w-FJ2.text" = "Total ";
+
+/* Class = "UILabel"; text = "Bet Detail"; ObjectID = "dc4-5m-AId"; */
+"dc4-5m-AId.text" = "Bet Detail";
+
+/* Class = "UILabel"; text = "Player Id:"; ObjectID = "dgX-w0-jeI"; */
+"dgX-w0-jeI.text" = "Player Id:";
+
+/* Class = "UILabel"; text = "Total "; ObjectID = "dwI-2s-Jcw"; */
+"dwI-2s-Jcw.text" = "Total ";
+
+/* Class = "UILabel"; text = "5000"; ObjectID = "eOl-GS-BJ7"; */
+"eOl-GS-BJ7.text" = "5000";
+
+/* Class = "UILabel"; text = "1.95"; ObjectID = "ecM-JQ-1hq"; */
+"ecM-JQ-1hq.text" = "1.95";
+
+/* Class = "UILabel"; text = "http://159.138.129.40/modern/desktop/stock-list"; ObjectID = "fB9-nG-x7J"; */
+"fB9-nG-x7J.text" = "http://159.138.129.40/modern/desktop/stock-list";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "fjL-RF-XaE"; */
+"fjL-RF-XaE.text" = "1";
+
+/* Class = "UITextField"; placeholder = "Male"; ObjectID = "gbV-zX-28N"; */
+"gbV-zX-28N.placeholder" = "Male";
+
+/* Class = "UILabel"; text = "Total Online :"; ObjectID = "gw5-Tt-nZt"; */
+"gw5-Tt-nZt.text" = "Total Online :";
+
+/* Class = "UILabel"; text = "PREVIEW"; ObjectID = "hn8-2l-hj8"; */
+"hn8-2l-hj8.text" = "PREVIEW";
+
+/* Class = "UILabel"; text = "10000"; ObjectID = "iqJ-N7-oef"; */
+"iqJ-N7-oef.text" = "10000";
+
+/* Class = "UIButton"; normalTitle = "To Date"; ObjectID = "jJl-Vz-mMK"; */
+"jJl-Vz-mMK.normalTitle" = "To Date";
+
+/* Class = "UILabel"; text = "1095"; ObjectID = "kfH-DP-1cC"; */
+"kfH-DP-1cC.text" = "1095";
+
+/* Class = "UIButton"; normalTitle = "To Date"; ObjectID = "kfQ-LR-Huo"; */
+"kfQ-LR-Huo.normalTitle" = "To Date";
+
+/* Class = "UILabel"; text = "124556237889564565460"; ObjectID = "kgf-zZ-6Z3"; */
+"kgf-zZ-6Z3.text" = "124556237889564565460";
+
+/* Class = "UILabel"; text = "2 Hours, @0 Minute"; ObjectID = "kow-As-HpZ"; */
+"kow-As-HpZ.text" = "2 Hours, @0 Minute";
+
+/* Class = "UILabel"; text = "118"; ObjectID = "mad-Vy-2GF"; */
+"mad-Vy-2GF.text" = "118";
+
+/* Class = "UILabel"; text = "$ 10000"; ObjectID = "n6m-1w-JKf"; */
+"n6m-1w-JKf.text" = "$ 10000";
+
+/* Class = "UIButton"; normalTitle = "PENDING"; ObjectID = "nSD-Qh-mY5"; */
+"nSD-Qh-mY5.normalTitle" = "PENDING";
+
+/* Class = "UIButton"; normalTitle = "GO"; ObjectID = "nvD-Rd-na3"; */
+"nvD-Rd-na3.normalTitle" = "GO";
+
+/* Class = "UILabel"; text = "SOMETHJING"; ObjectID = "o3a-iD-xUG"; */
+"o3a-iD-xUG.text" = "SOMETHJING";
+
+/* Class = "UIButton"; normalTitle = "Everyone"; ObjectID = "p2F-zO-ra7"; */
+"p2F-zO-ra7.normalTitle" = "Everyone";
+
+/* Class = "UILabel"; text = " Last Digit - Small (1.95) BTC/USDT 1 Minute "; ObjectID = "pAr-vN-Kfl"; */
+"pAr-vN-Kfl.text" = " Last Digit - Small (1.95) BTC/USDT 1 Minute ";
+
+/* Class = "UILabel"; text = "RULES"; ObjectID = "pGD-IN-Txj"; */
+"pGD-IN-Txj.text" = "RULES";
+
+/* Class = "UILabel"; text = "STOCK LIST"; ObjectID = "qXt-O3-K5e"; */
+"qXt-O3-K5e.text" = "STOCK LIST";
+
+/* Class = "UILabel"; text = "Tutorial"; ObjectID = "rKC-Kl-Xi6"; */
+"rKC-Kl-Xi6.text" = "Tutorial";
+
+/* Class = "UILabel"; text = "1.95"; ObjectID = "s08-66-5Qb"; */
+"s08-66-5Qb.text" = "1.95";
+
+/* Class = "UILabel"; text = "124556237889564565460"; ObjectID = "s5B-Eh-chb"; */
+"s5B-Eh-chb.text" = "124556237889564565460";
+
+/* Class = "UILabel"; text = "STOCK ANALYSIS"; ObjectID = "tbL-q1-VCa"; */
+"tbL-q1-VCa.text" = "STOCK ANALYSIS";
+
+/* Class = "UITextField"; placeholder = "Laos"; ObjectID = "tfM-tC-6dj"; */
+"tfM-tC-6dj.placeholder" = "Laos";
+
+/* Class = "UILabel"; text = "CURRENT BET"; ObjectID = "vlX-kY-ZXa"; */
+"vlX-kY-ZXa.text" = "CURRENT BET";
+
+/* Class = "UILabel"; text = "500"; ObjectID = "wI3-kK-POG"; */
+"wI3-kK-POG.text" = "500";
+
+/* Class = "UILabel"; text = "Bet Detail"; ObjectID = "wxG-xi-kQN"; */
+"wxG-xi-kQN.text" = "Bet Detail";
+
+/* Class = "UILabel"; text = "Bet Id"; ObjectID = "xTH-pX-IFG"; */
+"xTH-pX-IFG.text" = "Bet Id";
+
+/* Class = "UILabel"; text = "2019-11-18 15:49:26"; ObjectID = "z03-1y-NDE"; */
+"z03-1y-NDE.text" = "2019-11-18 15:49:26";
+
+/* Class = "UILabel"; text = "SETTINGS"; ObjectID = "z1I-br-2KN"; */
+"z1I-br-2KN.text" = "SETTINGS";
+
+/* Class = "UILabel"; text = "REFERENCE"; ObjectID = "zBA-99-Ggx"; */
+"zBA-99-Ggx.text" = "REFERENCE";
